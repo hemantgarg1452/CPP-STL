@@ -6,7 +6,7 @@ Here I'll go through all the STL lib.
 4. Queue
 5. list
 6. set (ordered / unordered)
-7. map
+7. map (ordered / unordered)
 8. Deque
 9. Priority Queue
 10. Algorithms
